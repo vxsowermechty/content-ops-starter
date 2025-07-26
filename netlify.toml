@@ -1,4 +1,5 @@
 [build]
-command = "npm run export"
 publish = "out"
-ajuste para next export
+command = "npm run build"
+
+# ajuste necessário para projetos Next.js com exportação estática
